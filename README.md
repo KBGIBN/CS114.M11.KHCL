@@ -1,4 +1,7 @@
 # CS114.M11.KHCL - MÁY HỌC
-## Sinh viên: Hoàng Ngọc Bá Thi - MSSV: 19522255
-
-Github này dành cho các bài tập và đồ án của môn **MÁY HỌC (CS114)**
+# NHÓM: STD
+## Thành viên:
+* Hoàng Ngọc Bá Thi - MSSV: 19522255
+* Nguyễn Thanh Sang - MSSV: 19522124
+* Nguyễn Quốc Đạt - MSSV: 19521338
+Github này chứa các bài tập và đồ án môn **MÁY HỌC (CS114)** của **nhóm STD**
